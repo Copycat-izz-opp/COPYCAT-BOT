@@ -1,5 +1,5 @@
 # CᴏᴘʏᴄᴀᴛOᴡɴᴇʀ
-       <p align="center">
+<p align="center">
   <img src="https://telegra.ph/file/0921d30b05789b53a5391.jpg">
 </p>
 
